@@ -15,15 +15,8 @@ venv\Scripts\activate         # Windows
 ### 3. Install Dependencies
 pip install -r requirements.txt  
 
-### 4. Setup Project Structure
-Ensure this folder structure exists:
-
-player_data/  
-├── minimaps/  
-├── February_10/  
-
-### 5. Run the Application
+### 4. Run the Application
 python-m streamlit run app.py  
 
-### 6. Open in Browser
+### 5. Open in Browser
 http://localhost:8501  
